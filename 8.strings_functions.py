@@ -25,4 +25,4 @@ print(mystr.capitalize())
 print(mystr.find("is")) # as the this // contains is
 print(mystr.upper()) # to convert the string into the uppercase
 print(mystr.replace("is","are"))
-# replacing every is by are 
+# replacing every is by are
